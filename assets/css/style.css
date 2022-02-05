@@ -78,6 +78,7 @@ p {
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
+    padding: 0 10px;
 }
 
 .benefit h3 {
@@ -102,7 +103,7 @@ p {
 .content-text {
     width: 60%;
     float: left;
-    padding: 0 35px 0 35px;
+    padding: 0 35px;
 }
 
 .blue-box {
